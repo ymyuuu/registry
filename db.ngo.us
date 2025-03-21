@@ -50,6 +50,11 @@ fsao 86400 IN NS serenity.ns.cloudflare.com.
 fsarorg 86400 IN NS drake.ns.cloudflare.com.
 fsarorg 86400 IN NS serenity.ns.cloudflare.com.
 
+; IPDB
+; Submitted by admin@8bq.ovh
+sdk 86400 IN NS lia.ns.cloudflare.com.
+sdk 86400 IN NS piers.ns.cloudflare.com.
+
 ; Lively Souls Foundation
 liveleak	86400	IN	NS	dns1.p08.nsone.net.
 liveleak	86400	IN	NS	dns2.p08.nsone.net.
